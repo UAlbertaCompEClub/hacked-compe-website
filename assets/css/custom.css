@@ -12,6 +12,11 @@
     color: #ffffff !important;
 }
 
+span.icon.major:hover {
+    color: #ffffff;
+    background-color: #16703d;
+}
+
 .feature {
     display: -moz-flex;
     display: -webkit-flex;
