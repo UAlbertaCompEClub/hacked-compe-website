@@ -189,7 +189,7 @@
             <header class="major">
                 <h2>Sponsors</h2>
                 <p>Special thanks to our awesome sponsors! <br/>Interested in our sponsorship packages? Send us a message.</p>
-                <img class="icon" src="https://cdn.rawgit.com/UAlbertaCompEClub/hacked-compe-website/master/static/images/sponsors/startup-edmonton.png"/>
+                <img class="icon sponsor" src="https://cdn.rawgit.com/UAlbertaCompEClub/hacked-compe-website/master/static/images/sponsors/startup-edmonton.png"/>
             </header>
             <footer class="major">
                 <ul class="actions">
