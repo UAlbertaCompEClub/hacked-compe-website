@@ -16,7 +16,7 @@
                         </li>
                     </ul>
                 </div>
-                <span class="image"><img src="images/hacked.jpeg" alt="" /></span>
+                <span class="image"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/hacked-compe-website/master/static/images/hacked.jpeg" alt="" /></span>
             </div>
             <ul class="statistics">
                 <li class="style2">
@@ -45,13 +45,13 @@
             </header>
             <span class="feature">
                 <span class="image">
-                    <img src="images/featured1.jpg"/>
+                    <img src="https://cdn.rawgit.com/UAlbertaCompEClub/hacked-compe-website/master/static/images/featured1.jpg"/>
                 </span>
                 <span class="image">
-                    <img src="images/featured2.jpg"/>
+                    <img src="https://cdn.rawgit.com/UAlbertaCompEClub/hacked-compe-website/master/static/images/featured2.JPG"/>
                 </span>
                 <span class="image">
-                    <img src="images/featured3.jpg"/>
+                    <img src="https://cdn.rawgit.com/UAlbertaCompEClub/hacked-compe-website/master/static/images/featured3.jpg"/>
                 </span>
             </span>
 
@@ -189,7 +189,7 @@
             <header class="major">
                 <h2>Sponsors</h2>
                 <p>Special thanks to our awesome sponsors! <br/>Interested in our sponsorship packages? Send us a message.</p>
-                <img class="icon" src="images/sponsors/startup-edmonton.png"/>
+                <img class="icon" src="https://cdn.rawgit.com/UAlbertaCompEClub/hacked-compe-website/master/static/images/sponsors/startup-edmonton.png"/>
             </header>
             <footer class="major">
                 <ul class="actions">

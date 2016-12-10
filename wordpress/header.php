@@ -9,10 +9,10 @@
 		<title>HackEd</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<link rel="shortcut icon" type="image/x-icon" href="images/hacked-logo.png" />
+		<link rel="shortcut icon" type="image/x-icon" href="https://cdn.rawgit.com/UAlbertaCompEClub/hacked-compe-website/master/static/images/hacked-logo.png" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<link rel="stylesheet" href="assets/css/custom.css" />
+		<link rel="stylesheet" href="https://cdn.rawgit.com/UAlbertaCompEClub/hacked-compe-website/master/static/assets/css/main.css" />
+		<link rel="stylesheet" href="https://cdn.rawgit.com/UAlbertaCompEClub/hacked-compe-website/master/static/assets/css/custom.css" />
 
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
@@ -24,7 +24,7 @@
 
 				<!-- Header -->
 					<header id="header" class="alt">
-						<span class="logo"><img src="images/hacked-logo.png" alt="HackEd" style="width:15%;"/></span>
+						<span class="logo"><img src="https://cdn.rawgit.com/UAlbertaCompEClub/hacked-compe-website/master/static/images/hacked-logo.png" alt="HackEd" style="width:15%;"/></span>
 						<h1>HackEd 2017</h1>
 					</header>
 
